@@ -1,0 +1,28 @@
+!table
+!version 700
+!charset WindowsSimpChinese
+
+Definition Table
+  Type SHAPEFILE Charset "Neutral"
+  Fields 4
+    Name Char (86) ;
+    Uid Char (80) ;
+    Lat Char (80) ;
+    Lng Char (80) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\Shapefile" = ""
+"\Shapefile\PersistentCache" = "FALSE"
+"\Spatial Reference" = ""
+"\Spatial Reference\Geographic" = ""
+"\Spatial Reference\Geographic\Projection" = ""
+"\Spatial Reference\Geographic\Projection\Clause" = "CoordSys Earth Projection 1, 104"
+"\DefaultStyles" = ""
+"\DefaultStyles\Symbol" = ""
+"\DefaultStyles\Symbol\Type" = "0"
+"\DefaultStyles\Symbol\Pointsize" = "12"
+"\DefaultStyles\Symbol\Color" = "0"
+"\DefaultStyles\Symbol\Code" = "35"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "d5952430-1c6b-48b0-8236-09babceee28a"
+end_metadata
